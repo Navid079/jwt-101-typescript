@@ -4,7 +4,7 @@ This repository contains a simple, from-scratch implementation of JSON Web Token
 
 It is built using only Node.js's native `crypto` module.
 
-This code was created as part of the article: JWT 101: What It Is, How It Works, and How to Build Your Own.
+This code was created as part of the article: [JWT 101: What It Is, How It Works, and How to Build Your Own](https://medium.com/@navid.naseri.079/jwt-101-what-it-is-how-it-works-and-how-to-build-your-own-ed189c936e0e).
 
 ## What’s inside
 - `JWT.sign(secret: string, payload: object): string` — Creates a signed JWT.
